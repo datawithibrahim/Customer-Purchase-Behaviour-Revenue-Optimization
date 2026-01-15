@@ -11,7 +11,7 @@ I also noticed that promotions are often run without understanding their financi
 
 The same problem appears in loyalty programs. Companies invest heavily in loyalty tiers, assuming higher tiers lead to higher spending. But in practice, higher-tier customers often do not spend meaningfully more than lower-tier or even non-members. Rewards are given without incremental return.
 
-Finally, I saw major strategic decisions being made based on assumptions instead of evidence—uniform budgets across regions, identical promotions for all income groups, and equal treatment of all customers regardless of value.
+Finally, I saw major strategic decisions being made based on assumptions instead of evidence uniform budgets across regions, identical promotions for all income groups, and equal treatment of all customers regardless of value.
 
 This project was built to address those exact problems. The goal was not to showcase tools or techniques, but to produce analysis that a CEO or CFO could actually use to identify revenue risk, margin leakage, and misallocated investment.
 
@@ -72,7 +72,7 @@ This creates operational risk. Losing a few high-value customers could result in
 
 Income is distributed across low, mid, and high segments. Higher-income customers spend more on average, as expected.
 
-The issue is not spending—it is discounting. High-income customers frequently use promotions despite having low price sensitivity. This results in unnecessary margin loss.
+The issue is not spending it is discounting. High-income customers frequently use promotions despite having low price sensitivity. This results in unnecessary margin loss.
 
 ![Income Band](https://github.com/datawithibrahim/Customer-Purchase-Behaviour-Revenue-Optimization/blob/fdf3ed7c02dc26baff090f97d5fb5d2c119b545e/Visualizations/Income_Band.png)
 
@@ -170,10 +170,21 @@ Revenue is concentrated in specific age groups, yet marketing budgets are often 
 
 The solution is to align marketing investment with actual revenue contribution. High-revenue age groups should receive focused messaging and budget allocation, while lower-revenue groups should be tested cautiously rather than overfunded.
 
-**Key Takeaways (Summary Version):**
+**Key Takeaways:**
 - Revenue is not evenly distributed by age  
-- Marketing budgets often ignore this reality  
+- Marketing budgets often ignore this reality
+
+### Business Insights, Solutions, and Expectations
+
+This analysis demonstrates how customer data, when examined through a financial and behavioral lens, can move a business away from assumption driven decision-making toward evidence-based strategy. The insights surfaced in this project are not theoretical observations; they highlight concrete revenue risks, margin leakage, and misaligned investments that exist in many real organizations. By rethinking promotions, loyalty structures, customer segmentation, and regional strategies around actual value creation, the business gains clarity on where profitability is generated and where it is quietly lost.
+
+
+The solutions outlined throughout this analysis are practical and implementable, but they require discipline and consistency. The goal is not short-term activity or superficial engagement, but sustainable revenue quality and long-term profitability. If applied correctly, these insights set clear expectations for leadership: revenue growth should begin to align with customer growth, margins should stabilize and improve, high-value customers should be actively protected, and strategic decisions should be driven by measurable financial impact rather than intuition.
+
+
+Ultimately, the value of this work lies not in the analysis itself, but in enabling decision-makers to understand their business more clearly and act with confidence. By shifting focus from assumptions to evidence, and from volume to value, the business positions itself to make smarter investments, reduce hidden inefficiencies, and build a more resilient and profitable operating model over time.
+
 - Investment should follow current revenue  
 - Assumption-based targeting leads to waste  
 
-
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODNhZmNhNGQtN2MwOS00MzA2LTk2N2QtMzBmOWY4NzdjZGM0IiwidCI6IjA0ZDkyY2YwLWEyNjgtNGNmYi04MDY0LTkzZjMzYThiYTU3MCJ9)

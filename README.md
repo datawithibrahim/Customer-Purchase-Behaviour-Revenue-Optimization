@@ -169,6 +169,8 @@ The analysis showed:
 
 ### Operational Consequence
 
+![Loyalty Distribution](https://github.com/datawithibrahim/Customer-Purchase-Behaviour-Revenue-Optimization/blob/5380f82d9bd7f220387cf98ece5e647128513003/Visualizations/Loyalty_Status.png)
+
 Most loyalty programs and retention strategies reward frequency. This results in:
 - Over-investment in low-value frequent buyers
 - Under-investment in high-value infrequent buyers

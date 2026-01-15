@@ -132,6 +132,8 @@ Customer experience cannot be equal when customer value is not.
 
 ## Income, Spending, and Margin Leakage
 
+![Income Distribution](https://github.com/datawithibrahim/Customer-Purchase-Behaviour-Revenue-Optimization/blob/32df83dca0d8aa5c0c1d5ade82b12017d12cd878/Visualizations/Income_Distibution.png)
+
 Income distribution analysis showed a broad mix of customer income levels rather than concentration in a single band.
 
 This creates a strategic challenge most businesses mishandle.

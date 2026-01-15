@@ -387,7 +387,7 @@ Variance is a system failure.
 | Ongoing | Cycle-time discipline | Efficiency |
 | Ongoing | Portfolio focus | Capacity optimization |
 
-## What Success Looks Like
+## What Impact Will Look Like
 
 Success is not more activity.
 

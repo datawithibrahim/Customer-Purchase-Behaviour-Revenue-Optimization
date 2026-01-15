@@ -266,6 +266,8 @@ This challenges the assumption that higher satisfaction is always better.
 
 Revenue contribution varied significantly by age group.
 
+![Age Group](https://github.com/datawithibrahim/Customer-Purchase-Behaviour-Revenue-Optimization/blob/0c65e4323360745e4e2cc808f4428d71b1323dfb/Visualizations/Age_Group.png)
+
 Some age segments generated disproportionate revenue, while others contributed marginally.
 
 ### Budget Allocation Problem

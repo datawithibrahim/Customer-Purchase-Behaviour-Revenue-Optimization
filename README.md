@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project examines how customer behavior translates into real business value — and where that value quietly breaks down despite apparent growth.
+This project examines how customer behavior translates into real business value and where that value quietly breaks down despite apparent growth.
 
 Many businesses track customer growth, engagement, and campaign performance closely. Dashboards show rising customer counts, increasing participation in promotions, and strong activity metrics. Yet when revenue growth is reviewed alongside these numbers, a disconnect often appears. Revenue grows slowly, stagnates, or grows only through heavy discounting.
 
